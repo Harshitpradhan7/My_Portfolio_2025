@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Harshitpradhan7/portfolio.git
+   git clone https://github.com/Harshitpradhan7/My_Portfolio_2025.git
 
    ```
 2. Navigate to the project directory:
